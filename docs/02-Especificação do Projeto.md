@@ -1,44 +1,22 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+A definição do problema e dos pontos mais relevantes relacionados ao projeto foi realizada por meio de discussões entre os membros da equipe. Os pontos mais relevantes observados durante as discussões foram então consolidados na por meio da elaboração de personas e histórias de usuário, que são mostradas nas seções a seguir.
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
-
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
-
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+|Felipe Alves      | Informações:                       |                                        |
+|--------------------|------------------------------------|----------------------------------------|
+| ![persona1](https://user-images.githubusercontent.com/74699119/221389199-7ae5f544-762e-48c9-9006-b83cc4220472.jpg) | **Idade:** 32 <br> **Ocupação:** Professor particular de inglês |**Aplicativos:**<br>● Whatsapp <br>● Instagram<br>● Facebook  |
+|**Motivações:**<br>● Obter mais engajamento de seus <br>alunos com as listas de exercício de inglês.<br>●  Obter mais alunos para suas<br> aulas particulares. |**Frustrações:**<br>● Baixa aderência de seus alunos aos exercícios de reforço que ele disponibiliza. <br>● Não possuir tantos alunos quanto gostaria. |**Hobbies:**<br>● Vídeo games<br>● Música <br>● Séries |
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+A partir da análise das personas elaboradas, foram levantadas as histórias de usuários mostradas abaixo:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
+|Felipe Alves        | Ter acesso a uma plataforma aonde possa cadastrar e enviar listas de tarefas para meus alunos. |Facilitar o processo de passar listas de tarefas para seus alunos. |
+|Felipe Alves        | Poder acompanhar as métricas de adesão e desempenho dos alunos nas atividades. | Poder avaliar se os alunos estão aderindo as listas de exercício e se estão tendo dificuldade com algum tema específico delas. |
 
 ## Modelagem do Processo de Negócio 
 
