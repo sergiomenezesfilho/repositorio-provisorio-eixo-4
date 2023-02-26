@@ -9,6 +9,11 @@ A definição do problema e dos pontos mais relevantes relacionados ao projeto f
 | ![persona1](https://user-images.githubusercontent.com/74699119/221389199-7ae5f544-762e-48c9-9006-b83cc4220472.jpg) | **Idade:** 32 <br> **Ocupação:** Professor particular de inglês |**Aplicativos:**<br>● Whatsapp <br>● Instagram<br>● Facebook  |
 |**Motivações:**<br>● Obter mais engajamento de seus <br>alunos com as listas de exercício de inglês.<br>●  Obter mais alunos para suas<br> aulas particulares. |**Frustrações:**<br>● Baixa aderência de seus alunos aos exercícios de reforço que ele disponibiliza. <br>● Não possuir tantos alunos quanto gostaria. |**Hobbies:**<br>● Vídeo games<br>● Música <br>● Séries |
 
+|Camila Soares      | Informações:                       |                                        |
+|--------------------|------------------------------------|----------------------------------------|
+| ![persona2](https://user-images.githubusercontent.com/74699119/221389970-6826a8ff-f9e2-45e6-a06e-0711bf243ed2.jpg) | **Idade:** 20 <br> **Ocupação:** Vestibulanda |**Aplicativos:**<br>● Tiktok <br>● Instagram<br>● Whatsapp  |
+|**Motivações:**<br>● Ser aprovada no vestibular de<br> medicina da UFMG.<br>●  Ter uma carreira bem<br> sucedida como médica cardiologista. |**Frustrações:**<br>● Dificuldade em manter o ritmo nos estudos. <br>● Dificuldade em avaliar seu progresso em sua preparação para o vestibular. |**Hobbies:**<br>● Viajar<br>● Séries <br>● Animais de estimação |
+
 ## Histórias de Usuários
 
 A partir da análise das personas elaboradas, foram levantadas as histórias de usuários mostradas abaixo:
@@ -17,6 +22,9 @@ A partir da análise das personas elaboradas, foram levantadas as histórias de 
 |--------------------|------------------------------------|----------------------------------------|
 |Felipe Alves        | Ter acesso a uma plataforma aonde possa cadastrar e enviar listas de tarefas para meus alunos. |Facilitar o processo de passar listas de tarefas para seus alunos. |
 |Felipe Alves        | Poder acompanhar as métricas de adesão e desempenho dos alunos nas atividades. | Poder avaliar se os alunos estão aderindo as listas de exercício e se estão tendo dificuldade com algum tema específico delas. |
+|Camila Soares        | Ter acesso a uma plataforma onde posso fazer listas de exercício das matérias que estou estudando em qualquer lugar. | Aumentar sua aderência e frequência de realização das atividades de reforço para melhorar seu aprendizado. |
+|Camila Soares        | Ter acesso a uma plataforma aonde posso acompanhar meu progresso no aprendizado das matérias com professores particulares ou de cursinho. | Organizar melhor sua rotina de estudos e poder avaliar melhor os pontos que precisa estudar mais. |
+
 
 ## Modelagem do Processo de Negócio 
 
