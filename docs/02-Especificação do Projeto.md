@@ -40,12 +40,11 @@ A partir da análise das personas elaboradas, foram levantadas as histórias de 
 |Felipe Alves        | Poder acompanhar as métricas de adesão e desempenho dos alunos nas atividades. | Poder avaliar se os alunos estão aderindo as listas de exercício e se estão tendo dificuldade com algum tema específico delas. |
 |Camila Soares        | Ter acesso a uma plataforma onde posso fazer listas de exercício das matérias que estou estudando em qualquer lugar. | Aumentar sua aderência e frequência de realização das atividades de reforço para melhorar seu aprendizado. |
 |Camila Soares        | Ter acesso a uma plataforma aonde posso acompanhar meu progresso no aprendizado das matérias com professores particulares ou de cursinho. | Organizar melhor sua rotina de estudos e poder avaliar melhor os pontos que precisa estudar mais. |
-|Márcia Rodrigues        |  |  |
-|Márcia Rodrigues        |  |  |
-|Roberto Castro        |  |  |
-|Roberto Castro        |  |  |
-|Sabrina Almeida        |  |  |
-|Sabrina Almeida        |  |  |
+|Márcia Rodrigues        | Ter acesso a uma plataforma que permita que os professores da minha escola passem tarefas para os alunos por meio de aplicativo. | Modernizar o processo de ensino na minha escola. |
+|Márcia Rodrigues        | Ter acesso a uma plataforma que recolha e disponibilize métricas em relação a adesão e desempenho dos alunos nas tarefas de casa. | Permitir um melhor acompanhamento dos professores no processo de aprendizado dos alunos. |
+|Roberto Castro        | Ter acesso a todas as minhas atividades do curso organizadas em um único aplicativo. | Poder planejar melhor o meu tempo para realização das tarefas do meu curso. |
+|Sabrina Almeida | Ter acesso a uma plataforma aonde eu possa praticar questões para os exames que vou realizar. | Praticar para melhorar meu desempenho nos próximos exames. |
+|Sabrina Almeida | Ter acesso a uma plataforma onde meu professor possa avaliar as métricas do meu desempenho nas tarefas para determinar quais são os pontos em que preciso melhorar. | Ter um melhor direcionamento do meu processo de aprendizado nas minhas aulas particulares. |
 
 ## Modelagem do Processo de Negócio 
 
