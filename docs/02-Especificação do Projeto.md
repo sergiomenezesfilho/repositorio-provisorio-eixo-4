@@ -14,6 +14,22 @@ A definição do problema e dos pontos mais relevantes relacionados ao projeto f
 | ![persona2](https://user-images.githubusercontent.com/74699119/221389970-6826a8ff-f9e2-45e6-a06e-0711bf243ed2.jpg) | **Idade:** 20 <br> **Ocupação:** Vestibulanda |**Aplicativos:**<br>● Tiktok <br>● Instagram<br>● Whatsapp  |
 |**Motivações:**<br>● Ser aprovada no vestibular de<br> medicina da UFMG.<br>●  Ter uma carreira bem<br> sucedida como médica cardiologista. |**Frustrações:**<br>● Dificuldade em manter o ritmo nos estudos. <br>● Dificuldade em avaliar seu progresso em sua preparação para o vestibular. |**Hobbies:**<br>● Viajar<br>● Séries <br>● Animais de estimação |
 
+|Márcia Rodrigues      | Informações:                       |                                        |
+|--------------------|------------------------------------|----------------------------------------|
+| ![persona3](https://user-images.githubusercontent.com/74699119/221930875-86967040-8a36-48fc-8caa-c39374aa456d.jpg) | **Idade:** 46 <br> **Ocupação:** Diretora de escola particular |**Aplicativos:**<br>● LinkedIn <br>● Gmail<br>● Twitter  |
+|**Motivações:**<br>● Integrar novas tecnologias de ensino em sua escola.<br>●  Obter melhor desempenho dos alunos de sua escola. |**Frustrações:**<br>● Sentir que sua escola está defasada na adoção de novas tecnologias na sala de aula. <br>● Reclamações dos professores em relação a adesão dos alunos as tarefas de casa. |**Hobbies:**<br>● Leitura<br>● Praticar exercício físico <br>● Natureza |
+
+|Roberto Castro      | Informações:                       |                                        |
+|--------------------|------------------------------------|----------------------------------------|
+| ![persona4](https://user-images.githubusercontent.com/74699119/221960106-8047565a-ed5f-4990-94c7-40afc2fdf403.jpg) | **Idade:** 25 <br> **Ocupação:** Vendedor em loja de roupas e estudante em curso de administração EAD |**Aplicativos:**<br>● Facebook <br>● Twitter<br>● Gmail  |
+|**Motivações:**<br>● Concluir seu curso de administração.<br>●  Obter uma promoção para gerente de<br> vendas em seu emprego. |**Frustrações:**<br>● Dificuldade para acompanhar as tarefas do curso. <br>● Dificuldade em conciliar o tempo entre os estudos e o trabalho. |**Hobbies:**<br>● Cozinhar<br>● Viajar <br>● Séries |
+
+|Sabrina Almeida      | Informações:                       |                                        |
+|--------------------|------------------------------------|----------------------------------------|
+| ![persona5](https://user-images.githubusercontent.com/74699119/221961074-ef4a10dc-e931-4c2a-b989-c376d0c71e49.jpg) | **Idade:** 27 <br> **Ocupação:** Arquiteta, estudante de curso de francês |**Aplicativos:**<br>● Instagram <br>● Twitter<br>● TikTok  |
+|**Motivações:**<br>● Se tornar fluente em francês.<br>● Conseguir um emprego na frança<br> e se mudar para o país. |**Frustrações:**<br>● Dificuldade em acompanhar as tarefas do seu curso de francês. <br>● Não ter obtido uma boa pontuação no último exame de proficiência<br> em francês que realizou. |**Hobbies:**<br>● Viajar<br>● Tirar fotos <br>● Postar em redes sociais |
+
+
 ## Histórias de Usuários
 
 A partir da análise das personas elaboradas, foram levantadas as histórias de usuários mostradas abaixo:
@@ -24,7 +40,12 @@ A partir da análise das personas elaboradas, foram levantadas as histórias de 
 |Felipe Alves        | Poder acompanhar as métricas de adesão e desempenho dos alunos nas atividades. | Poder avaliar se os alunos estão aderindo as listas de exercício e se estão tendo dificuldade com algum tema específico delas. |
 |Camila Soares        | Ter acesso a uma plataforma onde posso fazer listas de exercício das matérias que estou estudando em qualquer lugar. | Aumentar sua aderência e frequência de realização das atividades de reforço para melhorar seu aprendizado. |
 |Camila Soares        | Ter acesso a uma plataforma aonde posso acompanhar meu progresso no aprendizado das matérias com professores particulares ou de cursinho. | Organizar melhor sua rotina de estudos e poder avaliar melhor os pontos que precisa estudar mais. |
-
+|Márcia Rodrigues        |  |  |
+|Márcia Rodrigues        |  |  |
+|Roberto Castro        |  |  |
+|Roberto Castro        |  |  |
+|Sabrina Almeida        |  |  |
+|Sabrina Almeida        |  |  |
 
 ## Modelagem do Processo de Negócio 
 
