@@ -13,12 +13,9 @@ Diante do exposto, percebe-se que há dois problemas a serem sanados: a escassez
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Temos como objetivo geral do projeto desenvolver uma aplicação disponível em formato web e mobile que consiga auxiliar professores no processo de ministrar listas de exercícios para seus alunos de forma online, coletando métricas sobre a aderência e desempenho dos alunos em relação a essas atividades. Desta forma, os professores conseguiriam realizar um monitoramento melhor do processo de aprendizagem dos alunos e os alunos poderiam ter mais organização e comodidade para poder realizar as tarefas a qualquer hora por meio de dispositivos móveis ou via desktop quando estiverem em casa.
+° Disponibilizar aos professores ferramentas para submeterem atividades e conteúdos novos e melhorias para os alunos;
+° Permitir aos professores visualizarem notas e o desempenho dos alunos;
 
 ## Justificativa
 
