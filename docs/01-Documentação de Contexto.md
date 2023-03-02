@@ -14,7 +14,9 @@ Diante do exposto, percebe-se que há dois problemas a serem sanados: a escassez
 ## Objetivos
 
 Temos como objetivo geral do projeto desenvolver uma aplicação disponível em formato web e mobile que consiga auxiliar professores no processo de ministrar listas de exercícios para seus alunos de forma online, coletando métricas sobre a aderência e desempenho dos alunos em relação a essas atividades. Desta forma, os professores conseguiriam realizar um monitoramento melhor do processo de aprendizagem dos alunos e os alunos poderiam ter mais organização e comodidade para poder realizar as tarefas a qualquer hora por meio de dispositivos móveis ou via desktop quando estiverem em casa.
+
 ° Disponibilizar aos professores ferramentas para submeterem atividades e conteúdos novos e melhorias para os alunos;
+
 ° Permitir aos professores visualizarem notas e o desempenho dos alunos;
 
 ## Justificativa
